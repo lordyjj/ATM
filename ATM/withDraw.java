@@ -7,7 +7,7 @@ public withDraw(String name, double balance, double amount)
      super(name, balance);
       this.amount = amount;
        processWithdrawal();
-    }
+    } 
 private void processWithdrawal()
     {
      if(amount >= getBalance())
