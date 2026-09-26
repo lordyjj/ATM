@@ -1,4 +1,4 @@
-public class details
+ public class details
 {
  private String name;
    private double balance;
