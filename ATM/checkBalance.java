@@ -10,6 +10,7 @@ public void remainingBalance(double remainingBalances)
       System.out.println("Remaining balance: "+ balance);
     }
 
+    
 @Override
 public void displayDetails()
     {
