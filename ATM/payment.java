@@ -11,7 +11,7 @@ public payment(String name, double balance, int foods, int gcash, int load)
         this.load = load;
     }
 public int setFoods()
-    {
+    { 
      return foods;
     }
 public int setGcash()
