@@ -1,4 +1,4 @@
-public class deposit extends details 
+ public class deposit extends details 
 {
     private double dep;
      private double oldBalance;
