@@ -19,7 +19,7 @@ public static void main(String[] args)
         String passWord = "*_Change_Me*";
 
         //   current Balance of user
-        double currentBalance = 1000.00; 
+        double currentBalance = 1500.00; 
         boolean running = true;
 
         //  condition that user email and password will check if correct
